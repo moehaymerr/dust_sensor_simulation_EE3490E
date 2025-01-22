@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "functional": "c",
+        "charconv": "c",
+        "optional": "c",
+        "format": "c",
+        "system_error": "c",
+        "array": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "stdlib.h": "c",
+        "chrono": "c",
+        "variant": "c",
+        "unistd.h": "c",
+        "algorithm": "c",
+        "ctype.h": "c",
+        "time.h": "c",
+        "cstdlib": "c",
+        "stdio.h": "c",
+        "random": "c"
+    }
+}
